@@ -1,0 +1,21 @@
+
+b {
+    color: red;
+}
+nav{
+    color: white;
+}
+.paragraf1{
+    color: green;
+}
+.paragraf2{
+    color: blue;
+}
+#id1{
+    background-color: whitesmoke;
+}
+div{
+    margin: 4px 8px;
+    padding: 2px 4px;
+    border: 1px solid blue;
+}
